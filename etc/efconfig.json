@@ -1,0 +1,8 @@
+{
+  "runmode":"file",
+  "logfile":"./ef.log",
+  "idbUser":"hhost",
+  "idbPass":"pass",
+  "idbDb":"efdata",
+  "idbAddress":"http://localhost:8086"
+}
